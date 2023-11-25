@@ -111,7 +111,7 @@ class AllPC{
     }
 }
 
-public class Ex03 {
+public class class03 {
     public static void main(String args[]){
         PC pc = new PC();
         Note15 note15 = new Note15();
